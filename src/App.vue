@@ -28,8 +28,8 @@ export default {
         },
         {
           id: 3,
-          name: 'Seamus Chugtai',
-          email: 'dinesh@piedpiper.com',
+          name: 'Joe Bloggs,
+          email: 'joe@blogs.com',
         },
       ],
     }
