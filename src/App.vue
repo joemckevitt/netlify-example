@@ -28,7 +28,7 @@ export default {
         },
         {
           id: 3,
-          name: 'Joe Bloggs,
+          name: 'Joe Bloggs',
           email: 'joe@blogs.com',
         },
       ],
