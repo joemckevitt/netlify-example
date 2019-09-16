@@ -1,5 +1,7 @@
 # sample-app
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/97d65356-e6ff-42d7-80ea-40126e670cc5/deploy-status)](https://app.netlify.com/sites/hopeful-euclid-f83bd4/deploys)
+
 ## Project setup
 ```
 npm install
