@@ -14,7 +14,7 @@ This project is a combination of two tutorials
 
 ```
 git clone https://github.com/joemckevitt/simple-employee-vue-app.git
-cd cd simple-employee-vue-app
+cd simple-employee-vue-app
 nmp install
 npm run serve
 ```
